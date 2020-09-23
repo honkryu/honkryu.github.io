@@ -1,2 +1,2 @@
 # honkryu.github.io
-IWAE - My first Website... Enjoi
+IWAE - My first Website... Enjoy
